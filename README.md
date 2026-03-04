@@ -1,2 +1,1 @@
-#Introduction to HTML (Checkboxes,Radio).
-#.
+#Introduction to HTML (Checkboxes,Radio)
